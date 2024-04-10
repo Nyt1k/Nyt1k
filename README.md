@@ -1,7 +1,8 @@
 ### Hi there I`m Nyt1k👋
 
-🔭 I’m currently working on orbital nuclear weapon
-🌱 I’m currently learning Flutter, Swift maybe Android
+- 🔭 I’m currently working on orbital nuclear weapon
+
+- 🌱 I’m currently learning Flutter, Swift maybe Android
 <!--
 **Nyt1k/Nyt1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
