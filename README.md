@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" alt="Nyt1k GitBug Stats" src="https://github-readme-stats-tan-seven-84.vercel.app/api?username=Nyt1k&show_icons=true&hide_border=true" />
+<img align="left" alt="Nyt1k GitBug Stats" src="https://github-readme-stats-tan-seven-84.vercel.app/api?username=Nyt1k&show_icons=true&hide_border=true&theme=dark" />
