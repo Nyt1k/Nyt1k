@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I`m Nyt1k👋
 
 <!--
 **Nyt1k/Nyt1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning Flutter, Swift
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" alt="Nyt1k GitBug Stats" src="https://github-readme-stats-tan-seven-84.vercel.app/api?username=Nyt1k&show_icons=true">
+<img align="left" alt="Nyt1k GitBug Stats" src="https://github-readme-stats-tan-seven-84.vercel.app/api?username=Nyt1k&show_icons=true&hide_border=true" />
